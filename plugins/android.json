@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "jp.com.gfit.sample.package.name"
+        },
+        "org.velardo.cordova-plugin-googlefit": {
+            "PACKAGE_NAME": "jp.com.gfit.sample.package.name"
+        }
+    },
+    "dependent_plugins": {}
+}
